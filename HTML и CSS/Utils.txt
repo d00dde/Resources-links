@@ -1,0 +1,5 @@
+https://dev.w3.org/html5/html-author/charref - мнемоники для вставки спецсимволов в HTML.
+https://beautifier.io/ - JS Beautifier
+http://lazylinepainter.info/ - lazylinepainter анимация svg
+https://www.vectorizer.io/ - Растр в вектор
+https://cdnjs.com/ - Сборник библиотек cdnjs
