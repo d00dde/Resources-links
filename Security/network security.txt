@@ -1,0 +1,4 @@
+https://pentest-tools.com/home - проверка сайта на устойчивость к взлому
+https://www.exploit-db.com/ - база сетевых уязвимостей
+https://www.robtex.com/ - сбор публичной информации о домене
+https://thesafety.us/ru/check-ip#i - проверка анонимности 

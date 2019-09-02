@@ -3,3 +3,6 @@ https://beautifier.io/ - JS Beautifier
 http://lazylinepainter.info/ - lazylinepainter анимация svg
 https://www.vectorizer.io/ - Растр в вектор
 https://cdnjs.com/ - Сборник библиотек cdnjs
+https://www.remove.bg/ - удаление заднего фона изображения
+https://www.ostagram.me- нейросеть смешивает изображения
+https://www.captionbot.ai/ - нейросеть распознаёт, что на фото 
