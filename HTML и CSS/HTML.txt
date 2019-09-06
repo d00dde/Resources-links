@@ -1,3 +1,0 @@
-https://codyhouse.co/ - codyhouse стандартные HTML формы
-https://htmlreference.io/ - все HTML элементы
-https://learn.freecodecamp.org/ - кутс по HTML
