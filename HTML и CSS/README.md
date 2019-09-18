@@ -13,6 +13,7 @@
 + [Создание цветовой схемы](https://colorscheme.ru/)
 + [цвета material design](https://www.materialui.co/colors)
 + [Бесплатные PSD шаблоны](https://psdrepo.com/free-psd/needhosting-website-template-freebie/)
++ [коллекция бесплатных изображений](https://pixabay.com/)
 + [unsplash бесплатные изображения](https://unsplash.com/)
 + [33 сайта с бесплатными изображениями](https://www.likeni.ru/analytics/33-sayta-s-besplatnymi-izobrazheniyami/)
 
